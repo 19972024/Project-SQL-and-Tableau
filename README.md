@@ -9,7 +9,7 @@ Spanish Wines
 
 Herramientas:
 
-Utilizamos un data base obtenido de Kaggle llamado wine_spa que recopila mas de 6800 datos de vinos españoles y los categoriza por precio, rating, acidez, cuerpo, se logra distinguir las diferentes bodegas (cantinas) con su respectivo nombre de botellas analizadas.
+Utilizamos un data base obtenida de Kaggle llamada wine_spa que recopila mas de 8000 datos de vinos españoles y los categoriza por precio, rating, acidez, cuerpo, se logra distinguir las diferentes bodegas (cantinas) con su respectivo nombre de botellas analizadas.
 Como segundo data base tambien fue utlizado un df obtenido de kaggle llamado vinos que recopila mas de 18 000 datos de vinos de todo el mundo, donde se puede apreciar tambien los diferentes precios, ratings, reviews de diferentes sommeliers tambien agrupado por las diferentes bodegas (cantinas) con sus respectivos nombre de botellas.
 Para analizar estos datos fueron utlizadas diferentes tecnicas de Sql para las consultas, recopilacion de informacion, y donde fueron aplicadas diferentes funciones para como uniones (joins), subconsultas, agrupaciones etc.
 Luego para graficar los datos utilizamos la plataforma de tableau public, para exponer diferentes caracteristicas que logramos analizar y graficar con diferentes resultados.
